@@ -17,10 +17,7 @@ namespace SoThuXiGon
             InitializeComponent();
         }
 
-        private void btnChon_Click(object sender, EventArgs e)
-        {
-            lstDanhSach.Items.Add(lstThuMoi.SelectedItem);
-        }
+      
 
         private void ListBox_MouseDown(object sender, MouseEventArgs e)
         {
@@ -85,3 +82,4 @@ namespace SoThuXiGon
             }
         }
     }
+}
