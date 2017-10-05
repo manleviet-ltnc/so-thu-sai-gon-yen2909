@@ -58,14 +58,18 @@ namespace SoThuXiGon
 
             write.Close();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
+        private void mnuClose_Click(object sender, EventArgs e)
         {
-            StreamReader reader = new StreamReader("thumoi.txt");
+            Close();
+        }
 
-            if (reader == null) return;
+        private void mnuLoad_Click(object sender, EventArgs e)
+        {
+            StreamReader reader = new StreamReader("thumoi.txt")
 
-            string input;
+                if (reader == null) return;
+
+            string input = null;
             while ((input = reader.ReadLine()) != null)
             {
                 lstThuMoi.Items.Add(input);
