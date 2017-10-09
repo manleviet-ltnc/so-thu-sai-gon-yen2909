@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{648D1935-E586-4606-81CA-CA3A34DA5223}</ProjectGuid>
+    <ProjectGuid>{316233E4-8A37-4CF7-863C-675414FCCE07}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SoThuXiGon</RootNamespace>
-    <AssemblyName>SoThuXiGon</AssemblyName>
+    <RootNamespace>SoThuXiGonMoi</RootNamespace>
+    <AssemblyName>SoThuXiGonMoi</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -53,9 +53,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -64,7 +61,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,43 +74,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22291894_899105873575266_244416957_n.png" />
-  </ItemGroup>
-  <ItemGroup>
-<<<<<<< HEAD
-    <None Include="Resources\22264857_899105310241989_384452708_n.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22278496_899104666908720_1730919654_n.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22278434_899104883575365_1500821187_n.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22237364_899104636908723_1058093624_n.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22237184_899105450241975_1993755261_n.png" />
-=======
-    <None Include="Resources\22291936_899106060241914_227507802_n.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22237346_899106123575241_282595326_n.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22278662_899105956908591_2113989847_n.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22237140_899106180241902_830899415_n.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22291936_899106060241914_227507802_n1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22236510_899105800241940_285828348_n.png" />
->>>>>>> b73b8364da1e49c22f209ff8b7393af286904964
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

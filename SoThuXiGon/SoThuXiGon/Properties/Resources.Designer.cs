@@ -63,9 +63,15 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+        internal static System.Drawing.Bitmap _22237184_899105450241975_1993755261_n {
+            get {
+                object obj = ResourceManager.GetObject("22237184_899105450241975_1993755261_n", resourceCulture);
+=======
         internal static System.Drawing.Bitmap _22236510_899105800241940_285828348_n {
             get {
                 object obj = ResourceManager.GetObject("22236510_899105800241940_285828348_n", resourceCulture);
+>>>>>>> b73b8364da1e49c22f209ff8b7393af286904964
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +79,15 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+        internal static System.Drawing.Bitmap _22237364_899104636908723_1058093624_n {
+            get {
+                object obj = ResourceManager.GetObject("22237364_899104636908723_1058093624_n", resourceCulture);
+=======
         internal static System.Drawing.Bitmap _22237140_899106180241902_830899415_n {
             get {
                 object obj = ResourceManager.GetObject("22237140_899106180241902_830899415_n", resourceCulture);
+>>>>>>> b73b8364da1e49c22f209ff8b7393af286904964
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +95,15 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+        internal static System.Drawing.Bitmap _22264857_899105310241989_384452708_n {
+            get {
+                object obj = ResourceManager.GetObject("22264857_899105310241989_384452708_n", resourceCulture);
+=======
         internal static System.Drawing.Bitmap _22237346_899106123575241_282595326_n {
             get {
                 object obj = ResourceManager.GetObject("22237346_899106123575241_282595326_n", resourceCulture);
+>>>>>>> b73b8364da1e49c22f209ff8b7393af286904964
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +111,15 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+        internal static System.Drawing.Bitmap _22278434_899104883575365_1500821187_n {
+            get {
+                object obj = ResourceManager.GetObject("22278434_899104883575365_1500821187_n", resourceCulture);
+=======
         internal static System.Drawing.Bitmap _22278662_899105956908591_2113989847_n {
             get {
                 object obj = ResourceManager.GetObject("22278662_899105956908591_2113989847_n", resourceCulture);
+>>>>>>> b73b8364da1e49c22f209ff8b7393af286904964
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +127,15 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+        internal static System.Drawing.Bitmap _22278496_899104666908720_1730919654_n {
+            get {
+                object obj = ResourceManager.GetObject("22278496_899104666908720_1730919654_n", resourceCulture);
+=======
         internal static System.Drawing.Bitmap _22291894_899105873575266_244416957_n {
             get {
                 object obj = ResourceManager.GetObject("22291894_899105873575266_244416957_n", resourceCulture);
+>>>>>>> b73b8364da1e49c22f209ff8b7393af286904964
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +143,11 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
+        internal static System.Drawing.Bitmap _22291894_899105873575266_244416957_n {
+            get {
+                object obj = ResourceManager.GetObject("22291894_899105873575266_244416957_n", resourceCulture);
+=======
         internal static System.Drawing.Bitmap _22291936_899106060241914_227507802_n {
             get {
                 object obj = ResourceManager.GetObject("22291936_899106060241914_227507802_n", resourceCulture);
@@ -126,6 +161,7 @@ namespace SoThuXiGon.Properties {
         internal static System.Drawing.Bitmap _22291936_899106060241914_227507802_n1 {
             get {
                 object obj = ResourceManager.GetObject("22291936_899106060241914_227507802_n1", resourceCulture);
+>>>>>>> b73b8364da1e49c22f209ff8b7393af286904964
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
